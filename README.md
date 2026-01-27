@@ -8,27 +8,27 @@ This project focuses on learning the fundamentals of NumPy and understanding its
 
 **Topics Covered:**
 
-Array creation (1D & 2D)
+• Array creation (1D & 2D)
 
-Indexing and slicing
+• Indexing and slicing
 
-Mathematical and statistical operations
+• Mathematical and statistical operations
 
-Axis-wise computations
+• Axis-wise computations
 
-Reshaping and broadcasting
+• Reshaping and broadcasting
 
-Saving and loading NumPy arrays
+• Saving and loading NumPy arrays
 
-Performance comparison: NumPy vs Python lists
+• Performance comparison: NumPy vs Python lists
 
 **Key Learnings:**
 
-NumPy enables fast, efficient numerical operations
+• NumPy enables fast, efficient numerical operations
 
-Vectorized computations eliminate the need for loops
+• Vectorized computations eliminate the need for loops
 
-NumPy arrays outperform Python lists on large datasets
+• NumPy arrays outperform Python lists on large datasets
 
 **Conclusion:**
 
